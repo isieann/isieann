@@ -5,7 +5,7 @@ Soon to be graduate with a Bachelors Degree in Computer Science along with a Min
 **Kitty Companion**
 This is a project that I did at last years shark hack, kitty companion walks around the bottom of your screen and gives periodic reminders to drink water!
 
-**CS-330**
+**PLP**
 This project was for my Programming Languages class and is a tutorial on getting to learn C++.
 
 **CS-335/DJava**
